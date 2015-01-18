@@ -37,17 +37,3 @@ CREATE TABLE `cotisants` (
 -- Contenu de la table `cotisants`
 --
 
-INSERT INTO `cotisants` (`id`, `nom`, `prenom`, `date_cotiz`, `login`, `carte`, `type`, `annee`, `mail`) VALUES
-(1, 'Scherrmann', 'Nicolas', '10/10/2013', 'scherrma1u', 'oui', 'etudiant', '5A', 'scherrma1u@etu.univ-lorraine.fr'),
-(2, 'Morel-Damy', 'Thibaud', '10/10/2013', 'morel1u', '1', 'Etu', '4A', ''),
-(3, 'Dupond', 'Jean', '10/10/2013', 'dupond1u', '1', 'Etu', '1A', ''),
-(5, 'Joffin', 'Clement', '10/10/2013', 'joffin1u', '1', 'Etu', '3A', ''),
-(6, 'Petitjean', 'Arnaud', '10/10/2013', 'petitj18u', '1', 'Etu', 'Erasmus', ''),
-(7, 'Gayet', 'Antonin', '20/10/2013', 'gayet1u', '1', 'etudiant', '5A', 'gayet1u@etu.univ-lorraine.fr'),
-(8, 'Ludemann', 'Quentin', '22/12/2013', 'ludema1u', 'oui', 'etudiant', '3A', ''),
-(9, 'Dupond', 'Pierre', '07/01/2014', 'dupond38u', 'oui', 'etudiant', '1A', ''),
-(10, 'Durand', 'Mathieu', '07/01/2014', 'durand2u', 'oui', 'etudiant', '2A', ''),
-(11, 'Mercy', 'Romain', '13/01/2014', '', 'oui', 'exterieur', 'Ext', 'romain.mercy@gmail.com'),
-(16, 'Calendrier', 'Thomas', '13/01/2014', 'calendri1u', 'oui', 'etudiant', '5A', 'calendri1u@etu.univ-lorraine.fr'),
-(17, 'Lecomte', 'Anne-Flore', '13/01/2014', 'lecomte23u', 'oui', 'etudiant', '5A', 'lecomte23u@etu.univ-lorraine.fr');
-
